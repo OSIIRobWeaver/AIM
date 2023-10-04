@@ -1,0 +1,58 @@
+Questions to answer in Generative AI
+Solution Name: 
+
+1. Purpose and Use Case:
+	1.	What is the primary purpose of this Generative AI solution?
+	2.	What specific use cases or applications is it designed for?
+	3.	Can it be customized for different use cases?
+2. Model Architecture:
+	1.	What is the underlying model architecture (e.g., GPT-3, GAN, Transformer)?
+	2.	What is the size and complexity of the model?
+	3.	Is it a pre-trained model, and if so, on what data?
+3. Data Requirements:
+	1.	What type and amount of data are required to train or fine-tune the model?
+	2.	Is the solution data-agnostic, or does it require domain-specific training data?
+4. Training and Fine-Tuning:
+	1.	Can the model be fine-tuned for specific tasks or domains?
+	2.	What is the process for training or fine-tuning the model?
+	3.	Is fine-tuning supported by the provider?
+5. Input and Output:
+	1.	What input formats does the model accept?
+	2.	What types of output can the model generate (e.g., text, images, code)?
+	3.	Are there limitations on input and output length?
+6. Quality and Accuracy:
+	1.	How is the quality and accuracy of generated content measured?
+	2.	What metrics are used to evaluate the model's performance?
+	3.	Can the model generate content with controllable quality (e.g., from draft to final)?
+7. Bias and Fairness:
+	1.	What measures are in place to mitigate bias in the generated content?
+	2.	Has the model been tested for fairness and ethical considerations?
+8. Customization and Control:
+	1.	Can the user customize the behavior of the model (e.g., tone, style, personality)?
+	2.	Is there control over specific content generation parameters (e.g., temperature, max tokens)?
+	3.	How fine-grained is the control?
+9. Scalability:
+	1.	How scalable is the solution in terms of generating content at different volumes?
+	2.	Is it suitable for real-time or batch processing?
+10. Integration and Deployment:
+	1.	What deployment options are available (e.g., cloud-based, on-premises)?
+	2.	Is there an API or SDK for integration into existing systems?
+	3.	What are the pricing and licensing models?
+11. Security and Privacy:
+	1.	How is data security and privacy ensured in the generation process?
+	2.	Are there mechanisms to protect sensitive information?
+12. Support and Documentation:
+	1.	What level of support and documentation is provided by the solution provider?
+	2.	Is there a community or user forum for assistance?
+13. Cost and Licensing:
+	1.	What are the pricing structures, including subscription fees, usage-based costs, or one-time fees?
+	2.	Are there any restrictions on how the generated content can be used?
+14. Performance and Latency:
+	1.	What is the average response time or latency of the solution?
+	2.	How does performance scale with increased demand?
+15. Compatibility:
+	1.	Does the solution work with specific programming languages or frameworks?
+	2.	Are there any compatibility issues or requirements to be aware of?
+16. Post-processing and Evaluation:
+	1.	Is post-processing or human review required for generated content?
+	2.	How can the quality of generated content be monitored and improved over time?
