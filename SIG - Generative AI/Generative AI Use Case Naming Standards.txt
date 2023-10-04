@@ -1,0 +1,15 @@
+<Provider>-<Model>-<UseCase>-<Version>.txt
+
+<Provider>: This section should indicate the provider or organization behind the Generative AI solution. For example, if the solution is developed by OpenAI, this part could be "OpenAI."
+
+<Model>: Specify the model or architecture used in the solution. This could be the name of the underlying model, such as "GPT-3," "GAN," or "Transformer."
+
+<UseCase>: Describe the primary use case or application for which the AI solution is designed. Be concise but specific. For instance, if the AI is tailored for content generation in the medical domain, this part could be "MedicalContent."
+
+<Version>: Include a version number or identifier to distinguish different versions or releases of the same solution. This helps keep track of updates and improvements. You can use numbers or dates (e.g., "v1.0" or "2023-10-03").
+
+Putting it all together, here's an example file name:
+
+OpenAI-GPT-3-MedicalContent-v1.2.txt
+
+In this example, the file name provides information about the provider (OpenAI), the model (GPT-3), the use case (MedicalContent), and the version (v1.2) of the Generative AI solution. This naming convention should make it easy to organize and locate information about different solutions.
